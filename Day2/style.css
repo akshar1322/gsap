@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    }
+html,body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #000000;
+    height: 100%;
+    width: 100%;
+}
+body{
+    overflow-x: hidden;
+}
+
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color: lightskyblue;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: royalblue;
+
+}
+
+#page2 h1{
+    margin-right: 20px;
+    font-size: 40vw;
+    font-family: 'Segoe UI';
+    text-transform: uppercase;
+
+}
+
+
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: grey;
+}
+
+
